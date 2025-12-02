@@ -1,0 +1,915 @@
+fileFormatVersion: 2
+guid: 56b88042b6bf86f4ba08bdd991f16de2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LinaIdle_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1334
+        width: 80
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6092de2e22346e4dbf020318ebaae3b
+      internalID: -1851486519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1334
+        width: 81
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ff1aec401b589489ed4eef7ea78258
+      internalID: 1520281972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1334
+        width: 81
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f025cc8cc482534b95bfc1a2c25e4a8
+      internalID: -2002417645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1334
+        width: 82
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1488150a5b8127d4e8e172c8112d7896
+      internalID: 148675215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1334
+        width: 82
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d148a41d91a4fa5419d85679bd3462a0
+      internalID: 1821992550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_5
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1334
+        width: 84
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefc382a18c40d14395a319204d16698
+      internalID: 30325572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1068
+        width: 85
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a075908643098d040b572dc287da460d
+      internalID: -1580172210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1068
+        width: 85
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebea92aa9f24f3e4984e24232d4edce8
+      internalID: 2033774528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1067
+        width: 87
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01219d917eae8f949ae4043756cf297f
+      internalID: 1306126623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1067
+        width: 88
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08203cf8da9c9c045ac61335d8c1830f
+      internalID: 459143665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1067
+        width: 89
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3244e34737eaa49a404fbddf0d90d4
+      internalID: -1367347380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1068
+        width: 88
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fed0b4ef554c554b942a39f55de84ff
+      internalID: 1249815174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 801
+        width: 87
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3d3406547e80840b3764d0cb074f8a
+      internalID: 1606385325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 801
+        width: 88
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c34a30504ffda647a0f1e2144220db0
+      internalID: -2107563108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 801
+        width: 87
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c56c0269ab244448cf8db05a6c6523
+      internalID: 1181462067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 801
+        width: 86
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55752416b92deb2459c086800aeba30e
+      internalID: 885485131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 801
+        width: 85
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dcabe9743d2ea47b0ad40bf5fdbbc5
+      internalID: 1871277943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_17
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 801
+        width: 84
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4676fd103f1163c46842bd1cf664478a
+      internalID: -2126233482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 534
+        width: 83
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931b812eef6d7994f85785e54b96d15a
+      internalID: -233777884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 534
+        width: 82
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c5218b906d6e444b7600c809166597
+      internalID: -1194721363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 534
+        width: 81
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9fec13dd7af7843b5140413083dd28
+      internalID: 1601480793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_21
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 534
+        width: 80
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91826ab6ef42b84096fa2c2f6674cc4
+      internalID: 35807618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_22
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 534
+        width: 79
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e5aedce7d8d554097112fd4d8e3a6b
+      internalID: -161939961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_23
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 534
+        width: 79
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adb60855215a9747b3edd9260bfb9d7
+      internalID: 1630823392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 268
+        width: 78
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad66e7e8447d8ce4696bed27de3649c8
+      internalID: 1402873797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 268
+        width: 77
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c010cab4305c494aa2252e3e8d32565
+      internalID: 1220215501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 268
+        width: 77
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2069eb3bb936b44d88d6051fab9a1ef
+      internalID: -2093314210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_27
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 268
+        width: 77
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a20f992f2382a4c9e52367105e9d8a
+      internalID: 1120458970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 268
+        width: 76
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d84df070464074f90fd3387e354c0a
+      internalID: -435401289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_29
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 268
+        width: 77
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02456c664ca869a46be7c1725e8d5028
+      internalID: -1145474081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 76
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f7cd59a3823ed43940c964d105dd6c
+      internalID: 2062588755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 77
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23a53af9b35855488614810b70ba14a
+      internalID: 875490260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_32
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1
+        width: 78
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a504c7a6f180342bb1e0394592ed1b
+      internalID: 273330561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_33
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1
+        width: 78
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6ad5b927e22ee45926fc6f3e06a2cc
+      internalID: -654315079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_34
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 78
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fbe248db5b44441b79049858109b43
+      internalID: -874117126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinaIdle_35
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1
+        width: 78
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a85053c5955ee649a1a64145b90ec6d
+      internalID: 207655942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LinaIdle_11: 1249815174
+      LinaIdle_20: 1601480793
+      LinaIdle_6: -1580172210
+      LinaIdle_27: 1120458970
+      LinaIdle_24: 1402873797
+      LinaIdle_1: 1520281972
+      LinaIdle_4: 1821992550
+      LinaIdle_17: -2126233482
+      LinaIdle_0: -1851486519
+      LinaIdle_14: 1181462067
+      LinaIdle_3: 148675215
+      LinaIdle_21: 35807618
+      LinaIdle_5: 30325572
+      LinaIdle_12: 1606385325
+      LinaIdle_16: 1871277943
+      LinaIdle_7: 2033774528
+      LinaIdle_23: 1630823392
+      LinaIdle_19: -1194721363
+      LinaIdle_2: -2002417645
+      LinaIdle_26: -2093314210
+      LinaIdle_22: -161939961
+      LinaIdle_9: 459143665
+      LinaIdle_32: 273330561
+      LinaIdle_33: -654315079
+      LinaIdle_8: 1306126623
+      LinaIdle_30: 2062588755
+      LinaIdle_10: -1367347380
+      LinaIdle_18: -233777884
+      LinaIdle_13: -2107563108
+      LinaIdle_28: -435401289
+      LinaIdle_15: 885485131
+      LinaIdle_35: 207655942
+      LinaIdle_25: 1220215501
+      LinaIdle_29: -1145474081
+      LinaIdle_34: -874117126
+      LinaIdle_31: 875490260
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
