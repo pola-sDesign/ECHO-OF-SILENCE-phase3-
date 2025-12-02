@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 5d26230a11f53eb4ba8b20301305cf73
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 406
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81e6eefab7456d47a40ac3a15c058d7
+      internalID: 889818049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 406
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da06e5399123444d98fb6cdaba2dd55
+      internalID: 129436935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 406
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cc6cefebd7dd9438b1f24edfb6d391
+      internalID: -1683876147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 406
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adab859bb6715e9498f4a145bc19d473
+      internalID: 718785783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 281
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86044c7e0c98324485b33eecc787ca2
+      internalID: 1089505882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 281
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc403fb64abe0554bb4345c5e547fa65
+      internalID: 699362036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 281
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738d879c007fc2644b968cef5c46b3af
+      internalID: 383855866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 281
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdc1dd095d3f3547b41079783e2fd1c
+      internalID: -642114622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 156
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3b7310563443842aec2881ee101af7
+      internalID: -1766722867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 156
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4462b1fb81c79364f94bf6bd57bcf1eb
+      internalID: 1688146290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 156
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fd6230993da9d4094d55203d3298e3
+      internalID: 133717787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 158
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727d812bbcc9dc441a7cbf537802224f
+      internalID: 213976346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 45
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447279bef5299d34b8acdf6521387cc8
+      internalID: 1462876870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 35
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9f75acf7455734290a08ff5726defd
+      internalID: 90898723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 31
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f0b1e619c0150449869ff79a7cffb9
+      internalID: -932933876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 31
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f620746501874d540ad9e5f99fe1c699
+      internalID: 1561099570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_8: -1766722867
+      The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_3: 718785783
+      The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_9: 1688146290
+      The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_15: 1561099570
+      The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_13: 90898723
+      The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_5: 699362036
+      The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_0: 889818049
+      The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_12: 1462876870
+      The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_10: 133717787
+      The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_2: -1683876147
+      The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_7: -642114622
+      The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_4: 1089505882
+      The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_14: -932933876
+      The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_11: 213976346
+      The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_1: 129436935
+      The-subject-crouches-low-weight-balanced-on-the-ba-256px-16-removebg-preview_6: 383855866
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 7c7d7fab8703bff4ba87c802b49aba12
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 818
+        width: 158
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3b3ef2ba933ea4eadbc2239176ec4e
+      internalID: 539650286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 806
+        width: 125
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a142f51d6b18c8045849ec593c4b5b6c
+      internalID: 2069185694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 818
+        width: 152
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05fb6dceab693545946c9d71ee3cffc
+      internalID: 497462157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_3
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 834
+        width: 171
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a2dc9dbe1362949a67b0a834b4c1fe
+      internalID: 662823867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 550
+        width: 163
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1243699b9ef4654e89b90e1bad8b9db
+      internalID: 966181076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 538
+        width: 139
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf67401119fe704980b428c7ba6f967
+      internalID: 845424957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 537
+        width: 123
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8519bee8b550c6441b1e817bd556cb7b
+      internalID: -1260786397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_7
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 566
+        width: 171
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7581e5cbe91e4949bb1ce7024425208
+      internalID: 59970331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 269
+        width: 119
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf387cf456d2d843a4c5abbe5d546c3
+      internalID: 1911233643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 275
+        width: 133
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387a208b0ef1a204aaf854c68f224793
+      internalID: 531442437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 287
+        width: 159
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a165f031890394abb8821e2f533693
+      internalID: 645804793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_11
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 274
+        width: 148
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bb11d2d3c3a2143a8b8db957633a91
+      internalID: 1404349620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 6
+        width: 132
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2c7a4ee38d7d145ad230dc8d0e7c3a
+      internalID: -2134644966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_13
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 18
+        width: 172
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c74605edc1ecf458a6a2760305343c
+      internalID: -361385408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 6
+        width: 120
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3948922ab46d34ea033e1a8ac607ac
+      internalID: -1317884822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_15
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 26
+        width: 163
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb6d0007a4df8143920b9990d212c7f
+      internalID: -1337787768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_10: 645804793
+      Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_5: 845424957
+      Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_3: 662823867
+      Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_12: -2134644966
+      Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_14: -1317884822
+      Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_0: 539650286
+      Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_4: 966181076
+      Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_7: 59970331
+      Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_13: -361385408
+      Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_11: 1404349620
+      Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_6: -1260786397
+      Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_1: 2069185694
+      Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_8: 1911233643
+      Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_9: 531442437
+      Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_15: -1337787768
+      Change-the-dark-android-s-pose-to-an-active-run-fa-256px-16_2: 497462157
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

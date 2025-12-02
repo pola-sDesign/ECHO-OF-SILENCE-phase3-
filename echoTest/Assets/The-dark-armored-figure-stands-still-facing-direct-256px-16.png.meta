@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: d10267356e0472644a00e728e81b5013
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The-dark-armored-figure-stands-still-facing-direct-256px-16_0
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1661
+        width: 77
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f4d4990d74ecd45be511643c246a74
+      internalID: -869329965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-dark-armored-figure-stands-still-facing-direct-256px-16_1
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1661
+        width: 76
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe5fbf9351dc574a8b4ac142114a636
+      internalID: 199811830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-dark-armored-figure-stands-still-facing-direct-256px-16_2
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1661
+        width: 79
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b35c5e921d6564eb4bf3680b1ddc5a
+      internalID: -2018745450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-dark-armored-figure-stands-still-facing-direct-256px-16_3
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1661
+        width: 82
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ab0e1232e39a64691fec732b3d828b
+      internalID: 509990407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-dark-armored-figure-stands-still-facing-direct-256px-16_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1149
+        width: 84
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394d7da8763bbf94685dc653db3c57d2
+      internalID: -323040669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-dark-armored-figure-stands-still-facing-direct-256px-16_5
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1149
+        width: 80
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7034b541d2af0794faa98fd8dea35b16
+      internalID: 1490966768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-dark-armored-figure-stands-still-facing-direct-256px-16_6
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1149
+        width: 76
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c602614838e4b9a4a965171cedf2a503
+      internalID: 2078959755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-dark-armored-figure-stands-still-facing-direct-256px-16_7
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1149
+        width: 75
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c1d6d2a6ff2e3438b76735f30fbd2d
+      internalID: 1885650554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-dark-armored-figure-stands-still-facing-direct-256px-16_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 637
+        width: 72
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659c34c1261b4e141a762d83bcd456ba
+      internalID: 296343170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-dark-armored-figure-stands-still-facing-direct-256px-16_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 637
+        width: 72
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416d38eaf3dd44e46a2c91fecd0526a0
+      internalID: -1749686951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-dark-armored-figure-stands-still-facing-direct-256px-16_10
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 637
+        width: 72
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f13a1e1768028c4cbcc05355c7eebfc
+      internalID: 121185838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-dark-armored-figure-stands-still-facing-direct-256px-16_11
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 637
+        width: 73
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0b1732a5d7acb41b764b538817bbe2
+      internalID: -179006633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-dark-armored-figure-stands-still-facing-direct-256px-16_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 125
+        width: 76
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e042df6c4bb9a99488c8832b697a8577
+      internalID: -608237316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-dark-armored-figure-stands-still-facing-direct-256px-16_13
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 125
+        width: 76
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f0a40928ad3a440bfed5cdab1c5666
+      internalID: 275700366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-dark-armored-figure-stands-still-facing-direct-256px-16_14
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 125
+        width: 72
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f48acdccf97ac2488ad168ffefad18a
+      internalID: 954155051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-dark-armored-figure-stands-still-facing-direct-256px-16_15
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 125
+        width: 72
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1f2268d71a178498cd7c543ab60ef6
+      internalID: -1038680813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      The-dark-armored-figure-stands-still-facing-direct-256px-16_0: -869329965
+      The-dark-armored-figure-stands-still-facing-direct-256px-16_7: 1885650554
+      The-dark-armored-figure-stands-still-facing-direct-256px-16_9: -1749686951
+      The-dark-armored-figure-stands-still-facing-direct-256px-16_3: 509990407
+      The-dark-armored-figure-stands-still-facing-direct-256px-16_2: -2018745450
+      The-dark-armored-figure-stands-still-facing-direct-256px-16_4: -323040669
+      The-dark-armored-figure-stands-still-facing-direct-256px-16_13: 275700366
+      The-dark-armored-figure-stands-still-facing-direct-256px-16_8: 296343170
+      The-dark-armored-figure-stands-still-facing-direct-256px-16_5: 1490966768
+      The-dark-armored-figure-stands-still-facing-direct-256px-16_1: 199811830
+      The-dark-armored-figure-stands-still-facing-direct-256px-16_6: 2078959755
+      The-dark-armored-figure-stands-still-facing-direct-256px-16_10: 121185838
+      The-dark-armored-figure-stands-still-facing-direct-256px-16_15: -1038680813
+      The-dark-armored-figure-stands-still-facing-direct-256px-16_14: 954155051
+      The-dark-armored-figure-stands-still-facing-direct-256px-16_11: -179006633
+      The-dark-armored-figure-stands-still-facing-direct-256px-16_12: -608237316
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

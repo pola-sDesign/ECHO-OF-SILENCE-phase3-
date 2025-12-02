@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 7145fe751c90f014e9b1e4918f097fec
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 406
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a279cd46f2d2b46829842b0589510b
+      internalID: 1130230966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 406
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f40cab0fbd2e304d866351b78388ea7
+      internalID: 335945931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 406
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83e09206696a214b9786a7b061d947d
+      internalID: -1466735453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 406
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7ea435c6de74d4f9645f1182dea369
+      internalID: 2109165905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 281
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5f2c1cb729ac24d8a71bf2cf47ced9
+      internalID: -1665956434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 281
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195929fe6587f66489e95eb87aad449a
+      internalID: -141617396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 281
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b20262120e34b4ebe155b7e8ec7d39
+      internalID: -760753458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 281
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb9bcd99f84eea45bb40cbe26e1f210
+      internalID: -1521005099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 156
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd92c8213bf2f164ba703efa4c81f2b3
+      internalID: 2119114268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 156
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23ba8279341fdc4fbf65cd1f6d99475
+      internalID: -481170545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 156
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df740d14a2f9884d9165481561cc6ef
+      internalID: -1843560808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 156
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a5da6c3eb2a5f45987de7b2dd67cc1
+      internalID: 1936257096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 31
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4299767fe9e4249a342c09a6151730
+      internalID: -696825047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 31
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e083cb97365be34d9455e421c6fc696
+      internalID: 146989881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 31
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0045a079b55f7046ab0a3059d974564
+      internalID: -160088510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 31
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8992af9602f557468d522cbdafd84af
+      internalID: 1999477882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_4: -1665956434
+      Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_2: -1466735453
+      Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_14: -160088510
+      Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_12: -696825047
+      Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_10: -1843560808
+      Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_3: 2109165905
+      Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_15: 1999477882
+      Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_13: 146989881
+      Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_6: -760753458
+      Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_7: -1521005099
+      Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_11: 1936257096
+      Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_8: 2119114268
+      Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_1: 335945931
+      Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_9: -481170545
+      Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_0: 1130230966
+      Pose-the-subject-in-a-braced-3-4-profile-aiming-a--256px-16-removebg-preview_5: -141617396
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
