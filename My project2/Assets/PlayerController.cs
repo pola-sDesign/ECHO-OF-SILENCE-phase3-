@@ -14,6 +14,7 @@ public class PlayerController : MonoBehaviour
     public Transform groundCheck;
     public float groundCheckRadius = 0.2f;
     public LayerMask whatIsGround;
+    PlayerHealth health;
 
     private bool isGrounded;
     private Animator anim; 
@@ -21,10 +22,16 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         anim = GetComponent<Animator>();
+        health = GetComponent<PlayerHealth>();
     }
 
     void Update()
     {
+        if (health != null && health.IsKnockedback)
+{
+    // Ignore input while being knocked back
+    return;
+}
         
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, whatIsGround);
 
