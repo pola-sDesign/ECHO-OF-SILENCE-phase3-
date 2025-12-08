@@ -1,0 +1,1047 @@
+fileFormatVersion: 2
+guid: 8be68f2c2493ca54f9311c2499afcaf5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 766
+        width: 250
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0311d81c8cdcfb4fb979393495e1faf
+      internalID: -624030676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 858
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb902d11de5ba249b013ff9d61e5d61
+      internalID: -939796736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 766
+        width: 235
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9dd9cfd1bdd654287e0f35988c7778
+      internalID: -1731992549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 858
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92e892d6d2496b44a865f7121c74c93
+      internalID: 1011221747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_4
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 766
+        width: 233
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a09dcd98b98b334eb304fd0982763d2
+      internalID: -876348729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_5
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 858
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c24554bae720f34198381fb1dcfd937
+      internalID: 1368335539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_6
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 766
+        width: 233
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92fc287b7e92f94992e1178b3d8fb92
+      internalID: 1867119143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_7
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 858
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bce47a93affee4d9c34e796f349c8a
+      internalID: 1161328117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 767
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57319d7231685f2408d9c98470f0d71f
+      internalID: -355721675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_9
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 767
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c13aaab6d928d4fb5072b57e8bb54d
+      internalID: 729298866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_10
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 767
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce5fdf1e1a662540a0ed686b3308178
+      internalID: -1270052675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_11
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 767
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b4308351056ee4d952fe8b5d67df32
+      internalID: -863250819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 511
+        width: 233
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290150328a2361c499781739302aac47
+      internalID: 128431332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 603
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee42ef91a108744ba8b70cb0090551b
+      internalID: 2070890598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 511
+        width: 233
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6ad08f653ad094fa361a68fa8431e7
+      internalID: 47988787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_15
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 603
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cda951724510c4fb634c1266a46507
+      internalID: 1515698737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_16
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 511
+        width: 230
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c2876b6621b674c9411504b8856e08
+      internalID: -420586387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_17
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 603
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d68d2d9268a07f4891fdac9d45223b0
+      internalID: 1814323012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_18
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 511
+        width: 245
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4152300aa08ba7845b0d09519a013cf0
+      internalID: -1938453234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_19
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 513
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3671ada57da0d47910a59e617048b0
+      internalID: -2066379279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_20
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 513
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e775a9c141a877d47b71f291d37192c4
+      internalID: 179875812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_21
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 513
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f3ad9946d0df145b39bf6fb89ca4d6
+      internalID: -434121379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_22
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 513
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725a636d13ec2c845aa7445fdd76505d
+      internalID: 1236775270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_23
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 513
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e72be5717a7d944c929aa2bac6a45cf
+      internalID: 620491312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 259
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8de3db2e46d1474ba23377e76baffc8
+      internalID: -1444934038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 256
+        width: 246
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5324eddc16900ff4eaa5b2fd7d351fea
+      internalID: 227955313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 259
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de60fc8ed2c302443982684154b2d00e
+      internalID: -29994786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 256
+        width: 245
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10697fa29be0032449b2f2c52ea2551c
+      internalID: -1064193390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_28
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 259
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead2e6bd3e7cbb2458e9d6ab5265a19a
+      internalID: -2000731647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_29
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 256
+        width: 245
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a88b07cad56c794198e535347ec6f00
+      internalID: -1400106458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_30
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 259
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eed08b36ee72448aa8049cdcf64f70
+      internalID: 290280180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_31
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 256
+        width: 245
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b3a348912d73e4b8ff14505fac7524
+      internalID: -449505894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_32
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3
+        width: 246
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5848817d6b24ed14da713687136d28c5
+      internalID: -1361649825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_33
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3
+        width: 245
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98040a8fdc0f4d47baa5db5c1299474
+      internalID: 137390140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_34
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 3
+        width: 256
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bfc0f138279a542aee59bf4fda7e68
+      internalID: -837853896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_35
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 95
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feefb09cd57003048bb10d1224f223a9
+      internalID: 634454916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_36
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 3
+        width: 228
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3187881e11e5c4badaed090948852f
+      internalID: 1309045836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_37
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 95
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ae6c30b4574f446a50a79da049912e
+      internalID: 326997047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_38
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 4
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076fb78b8dddd3b4e9a98b4042caea8f
+      internalID: 1198727418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_39
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 5
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02209128fefdb434c9fdc46e877a39cd
+      internalID: 685832811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_40
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5567d38392e9ac4ca7794057202a556
+      internalID: 61303441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Shield_41
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 5
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0676efc7da3a24b8b57878ebffcb83
+      internalID: 307429613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EnemyLaser_Shield_7: 1161328117
+      EnemyLaser_Shield_11: -863250819
+      EnemyLaser_Shield_36: 1309045836
+      EnemyLaser_Shield_13: 2070890598
+      EnemyLaser_Shield_16: -420586387
+      EnemyLaser_Shield_6: 1867119143
+      EnemyLaser_Shield_24: -1444934038
+      EnemyLaser_Shield_25: 227955313
+      EnemyLaser_Shield_26: -29994786
+      EnemyLaser_Shield_41: 307429613
+      EnemyLaser_Shield_0: -624030676
+      EnemyLaser_Shield_29: -1400106458
+      EnemyLaser_Shield_30: 290280180
+      EnemyLaser_Shield_27: -1064193390
+      EnemyLaser_Shield_19: -2066379279
+      EnemyLaser_Shield_3: 1011221747
+      EnemyLaser_Shield_34: -837853896
+      EnemyLaser_Shield_8: -355721675
+      EnemyLaser_Shield_37: 326997047
+      EnemyLaser_Shield_15: 1515698737
+      EnemyLaser_Shield_10: -1270052675
+      EnemyLaser_Shield_17: 1814323012
+      EnemyLaser_Shield_4: -876348729
+      EnemyLaser_Shield_1: -939796736
+      EnemyLaser_Shield_22: 1236775270
+      EnemyLaser_Shield_18: -1938453234
+      EnemyLaser_Shield_39: 685832811
+      EnemyLaser_Shield_35: 634454916
+      EnemyLaser_Shield_38: 1198727418
+      EnemyLaser_Shield_40: 61303441
+      EnemyLaser_Shield_20: 179875812
+      EnemyLaser_Shield_14: 47988787
+      EnemyLaser_Shield_23: 620491312
+      EnemyLaser_Shield_32: -1361649825
+      EnemyLaser_Shield_12: 128431332
+      EnemyLaser_Shield_33: 137390140
+      EnemyLaser_Shield_5: 1368335539
+      EnemyLaser_Shield_9: 729298866
+      EnemyLaser_Shield_31: -449505894
+      EnemyLaser_Shield_21: -434121379
+      EnemyLaser_Shield_28: -2000731647
+      EnemyLaser_Shield_2: -1731992549
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

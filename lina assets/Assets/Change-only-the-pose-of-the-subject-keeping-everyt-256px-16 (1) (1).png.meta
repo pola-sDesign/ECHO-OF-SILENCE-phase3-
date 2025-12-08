@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 809d5baaec298d74689bb4749a2d3f9f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_0
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1664
+        width: 211
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2979360ee812bd34c97fb5d1654344cd
+      internalID: 1551194686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_1
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1664
+        width: 211
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a35367ae25505940b81acfbebc1cbf8
+      internalID: 308564629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1664
+        width: 211
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3761160071395d345b96b69f5935c3b0
+      internalID: 1227395428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1664
+        width: 211
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d21c506e629d441a76599a72efdf3f
+      internalID: 1133381163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1152
+        width: 211
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b1be28da0033e42939c37264ea3461
+      internalID: 628005853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1152
+        width: 211
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc0dbfc672292244961fff6930ca84f
+      internalID: -1726391638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1152
+        width: 211
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729210e00904459468004937c79b1a53
+      internalID: -158783703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1152
+        width: 211
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d677ac92eef162b4eafa06f675010d45
+      internalID: -666220218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 641
+        width: 211
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c1dd20efdb294478b91932b236b450
+      internalID: -1193246831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 640
+        width: 167
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8457159c3e1e4843a276b908776d631
+      internalID: 604338664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 640
+        width: 211
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b878f96d1c4152c4d87f6f5a33801bf1
+      internalID: 456889228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 640
+        width: 183
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0773d909ad9731b4eaa2b21878c10a9f
+      internalID: -684488741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 128
+        width: 163
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a7e67b37e2f9448a6fb850f02c76f3
+      internalID: 1965028546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_13
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 128
+        width: 211
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6264366f7f99215468245b6479539239
+      internalID: 884097392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 128
+        width: 211
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5cdb4f101cc984f9c899d7b59d23d3
+      internalID: 2042932332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 128
+        width: 196
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0bc34e9fcef0e47936b1f4e3850f1a
+      internalID: -1443506973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_9: 604338664
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_12: 1965028546
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_2: 1227395428
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_10: 456889228
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_14: 2042932332
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_0: 1551194686
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_8: -1193246831
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_11: -684488741
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_3: 1133381163
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_4: 628005853
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_6: -158783703
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_13: 884097392
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_7: -666220218
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_5: -1726391638
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_1: 308564629
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (1) (1)_15: -1443506973
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

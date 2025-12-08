@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 42944671ea1d8804ab1c21c331e789d4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 994
+        width: 72
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0181a64da7fdc244ba0f495a0f553d9f
+      internalID: 223193605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 995
+        width: 100
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f6cbdd1908f5948a063db8e45bebfa
+      internalID: -735126700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 995
+        width: 99
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe26371b73875c408f3ef7158895918
+      internalID: 1518161632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_3
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 995
+        width: 91
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905968b38dd7db149a0ab8f6f351d713
+      internalID: -1546189345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 707
+        width: 128
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326546c07dda6dc4aad35fbcdc9cafdd
+      internalID: 1470685567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 683
+        width: 112
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b668c8a05f4c904bb6c7b9c584ecf13
+      internalID: 1690825138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 674
+        width: 106
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf069d242e3c0594ab9ae8e9cf64b64d
+      internalID: -1115866112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 674
+        width: 92
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73344ba86e16b774b8725134631afc2b
+      internalID: -1849587732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 351
+        width: 92
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2054788920bcea84d9187238b0204c0e
+      internalID: 1780029162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 351
+        width: 90
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324f395e3bc37d74c9a943ca206fefb5
+      internalID: -1428636518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 351
+        width: 92
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f845aa0da6120f24a936029d658de63c
+      internalID: 822716053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 351
+        width: 93
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c972de7cca2594b8c8ec23f4c61d63
+      internalID: 48696633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 30
+        width: 100
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbf721cf7eeb0d41a671af1fa51148a
+      internalID: -8106150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 30
+        width: 80
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868f09f65031dd44c98f82decc553710
+      internalID: 1039908157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 30
+        width: 72
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf8dfc9591ffed47b52ee63b972300d
+      internalID: 114300347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 30
+        width: 72
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a23c523cccab44c8464b6d6e062a8f
+      internalID: 357206527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_15: 357206527
+      The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_13: 1039908157
+      The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_6: -1115866112
+      The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_11: 48696633
+      The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_10: 822716053
+      The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_8: 1780029162
+      The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_2: 1518161632
+      The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_12: -8106150
+      The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_4: 1470685567
+      The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_9: -1428636518
+      The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_7: -1849587732
+      The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_5: 1690825138
+      The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_3: -1546189345
+      The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_0: 223193605
+      The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_1: -735126700
+      The-female-soldier-is-now-in-a-relaxed-idle-stance-256px-16 (1)_14: 114300347
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
