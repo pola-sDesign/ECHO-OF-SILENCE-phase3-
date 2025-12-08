@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class IRATest : MonoBehaviour
 {
@@ -9,6 +10,8 @@ public class IRATest : MonoBehaviour
     private Animator anim;
     private SpriteRenderer sr;
 
+    private bool canAttack = true;
+
     void Start()
     {
         anim = GetComponent<Animator>();
@@ -17,26 +20,48 @@ public class IRATest : MonoBehaviour
 
     void Update()
     {
+        if (player == null) return;
+
         float distance = Vector2.Distance(transform.position, player.position);
 
-        // Send distance to Animator
-        anim.SetFloat("Distance", distance);
+        // Flip direction
+        sr.flipX = (player.position.x < transform.position.x);
 
-        // Flip
-        if (player.position.x < transform.position.x)
-            sr.flipX = true;
-        else
-            sr.flipX = false;
+        if (!canAttack)
+        {
+            anim.SetFloat("Speed", 0f);
+            return;
+        }
 
-        // Move towards player if far enough
+        // Move until close
         if (distance > stopDistance)
         {
-            anim.Play("IRA-RUNNING");
-            transform.position = Vector2.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
+            anim.SetFloat("Speed", 1f);
+            transform.position = Vector2.MoveTowards(
+                transform.position,
+                new Vector3(player.position.x, transform.position.y, 0),
+                speed * Time.deltaTime
+            );
         }
         else
         {
-            anim.Play("IRA-IDEL");
+            // Stop walking
+            anim.SetFloat("Speed", 0f);
+
+            // Attack immediately
+            canAttack = false;
+            anim.SetTrigger("Attack");
         }
+    }
+
+    public void EnableAttackAfterDelay(float delay)
+    {
+        StartCoroutine(AttackDelayCoroutine(delay));
+    }
+
+    IEnumerator AttackDelayCoroutine(float d)
+    {
+        yield return new WaitForSeconds(d);
+        canAttack = true;  // ready for new attack
     }
 }

@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 5013f3e47ee5b3049af6e9f9e4ac96be
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1662
+        width: 231
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e643de52db1a46c4695fd71ba9ab6c62
+      internalID: 1534890751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_1
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1662
+        width: 183
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dbeaaa826624d4f99694f91c9178ce
+      internalID: -1827076160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_2
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1662
+        width: 219
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08314b32f2007f4c875e97604f3f57c
+      internalID: 942953745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_3
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1662
+        width: 219
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcda9c4515d21b438e648ae353787b0
+      internalID: -28837035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1150
+        width: 219
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432927b65e0642444b9dabee52104a12
+      internalID: -1271652480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_5
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1150
+        width: 231
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30176beb31dbc844686c17208673a34e
+      internalID: -415143086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_6
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1150
+        width: 231
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9d540c5d2f0ee4c838b02f130d1941
+      internalID: 449165743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_7
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1150
+        width: 231
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29132ccfb9f77d54fb936614b37af5f0
+      internalID: 633673761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 638
+        width: 219
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18552a7fa6e66542be529856bf81459
+      internalID: 881330407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_9
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 638
+        width: 219
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ebebfc7507af3429a8015e7d654b1a
+      internalID: -1002354445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_10
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 638
+        width: 219
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a52d19d98bfbee4b841bfdf32980c1c
+      internalID: 301664621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_11
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 638
+        width: 219
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13edbf5be6e17fd448a782197c06286f
+      internalID: -1317945712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_12
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 126
+        width: 219
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc058f63e04d4248af5018fc56c86ed
+      internalID: 1927612584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 126
+        width: 231
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d61d2557db32be4bbfec1ebd113a0e2
+      internalID: -1297830344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_14
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 126
+        width: 231
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76efdedd0a63c0d4abcd2660d2b8a960
+      internalID: 1383367564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_15
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 126
+        width: 231
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144dd4a74aa5b1d45813fcf90a5fb20f
+      internalID: -1532084048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_8: 881330407
+      Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_10: 301664621
+      Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_3: -28837035
+      Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_9: -1002354445
+      Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_2: 942953745
+      Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_6: 449165743
+      Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_14: 1383367564
+      Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_13: -1297830344
+      Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_11: -1317945712
+      Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_4: -1271652480
+      Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_1: -1827076160
+      Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_12: 1927612584
+      Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_5: -415143086
+      Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_0: 1534890751
+      Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_15: -1532084048
+      Change-the-figure-s-pose-to-a-dynamic-attack-stanc-256px-16_7: 633673761
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

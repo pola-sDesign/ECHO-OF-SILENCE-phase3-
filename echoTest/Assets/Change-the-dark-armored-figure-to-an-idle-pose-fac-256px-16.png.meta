@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 7943a0a3c7e3a7f4c912c6f63c65e9fc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_0
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1661
+        width: 108
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131fb1508e344e74d8887aaf7f9b7854
+      internalID: -1069293669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_1
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1661
+        width: 108
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667e573c064695b4ba8c78268f3cd611
+      internalID: 1272665793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_2
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1661
+        width: 112
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704d54b9bac4a334bafa4a26853bd772
+      internalID: -740998521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_3
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1661
+        width: 116
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff30817af93cae4eb99fbdb7b3ca72a
+      internalID: -1339344008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1149
+        width: 120
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7aa9cfd2d00b943b88fd225eebe9c0
+      internalID: 1692398758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_5
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1149
+        width: 121
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b183c4865c9e2614992f0b9c77350193
+      internalID: -1355282504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_6
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1151
+        width: 123
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0e7d689d10e7549bf2652d6ca6da9a
+      internalID: 416401323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_7
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1151
+        width: 124
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1748b651738e7f44a80daef4b8e07b3
+      internalID: 2141493645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 639
+        width: 123
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f525253f117d844a00249af211a883
+      internalID: 1393465985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_9
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 639
+        width: 123
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd31f57a28c44d247818cac1e60eca18
+      internalID: -930662922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_10
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 637
+        width: 123
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41750f98c26fcba4797dca364f93d31d
+      internalID: 477402727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_11
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 639
+        width: 124
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5576d283e46734586fe40ebc573c83
+      internalID: 1061001549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 125
+        width: 123
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bbc1f38be659e4f885def30d82c66f
+      internalID: 1091447107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_13
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 125
+        width: 123
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e385884d4f293646b078ed19fb048e5
+      internalID: 1167244829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_14
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 125
+        width: 120
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a379c415cfb560446a531f5c6ad1d6f9
+      internalID: 1064553590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_15
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 125
+        width: 116
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e93221c3d9d1c542977f18ca755a2f0
+      internalID: 1202193851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_10: 477402727
+      Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_12: 1091447107
+      Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_3: -1339344008
+      Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_4: 1692398758
+      Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_5: -1355282504
+      Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_6: 416401323
+      Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_1: 1272665793
+      Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_9: -930662922
+      Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_2: -740998521
+      Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_7: 2141493645
+      Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_8: 1393465985
+      Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_0: -1069293669
+      Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_13: 1167244829
+      Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_11: 1061001549
+      Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_14: 1064553590
+      Change-the-dark-armored-figure-to-an-idle-pose-fac-256px-16_15: 1202193851
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 2ac8210a8c838314685d9322a7803660
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_0
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1662
+        width: 156
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb370088a6d7bca4da658b5df4751e1c
+      internalID: -354543161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_1
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1659
+        width: 116
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b9e0fd08b061d4e85b4cda22b98bd6
+      internalID: -496423508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_2
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1665
+        width: 155
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18da591d749612742a849837a98a4ef0
+      internalID: 1780860538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_3
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1663
+        width: 155
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0d092cad605a245be4c5825855ad63
+      internalID: 506980992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1166
+        width: 146
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f8201a36ca32e4ab507ef8bc77be24
+      internalID: -256247333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_5
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1147
+        width: 148
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb45f9f77225764da0d93a37e6b0312
+      internalID: -699326503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_6
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1150
+        width: 113
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24de93ddd66b87b44aa0d5080b5695be
+      internalID: -1861884141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_7
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1151
+        width: 144
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a442af49df923d4d9312de212de60e4
+      internalID: 1460288644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 639
+        width: 156
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bc49409a8daa842bc40ea72ceb7556
+      internalID: 1307677374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_9
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 646
+        width: 140
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc6df2dc5b508944b87cd065bcc5ba5
+      internalID: 161460450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_10
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 635
+        width: 152
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6007684ca98199a47a47e2d341ba07be
+      internalID: -14021229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_11
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 638
+        width: 124
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f62ec20c0be3d4ea1429c58c176304
+      internalID: -66920716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 130
+        width: 147
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57183a65a0a8a1842af2cf83a9da3a7e
+      internalID: 401198179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_13
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 127
+        width: 148
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9211e093c75d41549aff0e96efc3349b
+      internalID: 1797705522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_14
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 133
+        width: 142
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ecc685fc46b2f4cae2c82ada2d78b9
+      internalID: -1780353697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_15
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 142
+        width: 148
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925db94ee19be854bafbf4bf6ca91025
+      internalID: 78312466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_12: 401198179
+      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_4: -256247333
+      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_13: 1797705522
+      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_1: -496423508
+      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_5: -699326503
+      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_10: -14021229
+      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_9: 161460450
+      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_2: 1780860538
+      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_14: -1780353697
+      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_8: 1307677374
+      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_15: 78312466
+      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_7: 1460288644
+      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_3: 506980992
+      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_0: -354543161
+      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_6: -1861884141
+      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_11: -66920716
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
