@@ -1,0 +1,1795 @@
+fileFormatVersion: 2
+guid: c4735dc82f7de7f4fbff58428cae0498
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 495
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772c1d84950a34f42957c3dc5a50d303
+      internalID: 925814141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 384
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec426653afcad3498f54cb8c61b4294
+      internalID: 1481779696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 384
+        width: 82
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6c21925b1cb134789f5272b5128890
+      internalID: 237805623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 384
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c82a62e976b9c4187aa89a142222f1
+      internalID: 1794021747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 384
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e85b6ed5579a840a2512f2823d03cc
+      internalID: -1814944423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 262
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb62b3f0e4b75274abac247cf9577c63
+      internalID: -1267171969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 262
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe63ed100ecc7f54e8d1802814030205
+      internalID: 813090964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 262
+        width: 97
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4722369211350458c250f6cad8aec3
+      internalID: 855131556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 355
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738809f55fd7e92499d8d3e7fb6e48d6
+      internalID: -1121438196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 262
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7797d9e85c4c42b4e90bdab47c12d7e4
+      internalID: -2093814897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 347
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d543a3b96181f14795acd93aa28a700
+      internalID: -710577510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 330
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095660f19102b3845b4a81d0d493f3c6
+      internalID: -1919037747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 317
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1288e514a1b9344487a16f944fcaf24
+      internalID: -567743240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 249
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be26954164ec917428234efaaf2975cd
+      internalID: -148076975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 254
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9a81811c9ae2d46bf8d914eb3869ae
+      internalID: 1605801701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 245
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94aa5b8f9c55ce438c42bd81105ecc5
+      internalID: 740145139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 242
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f713f0065e1d4c848bf39a5efbd87d60
+      internalID: -1671206959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 240
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8699fc0de0fd03945bcf6fced4cb9f2a
+      internalID: -2052745166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 236
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8675c85181403e45a307442da2769f7
+      internalID: 633043166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 240
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dcf8ac2d7718242b396385900ea1fe
+      internalID: 2096742732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 135
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33a8246b58c18d449cf782aae183325
+      internalID: 984910918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 135
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df18367bbbf31b04fa54645522de67fc
+      internalID: 1328195187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 233
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5491fb17ccd1f984c8aecee77fc4a48e
+      internalID: 84464726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 231
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04d158ae60e1454fb0473bdfe54a5ac
+      internalID: -773412578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 225
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2e7d6e35b2d074197cf3e060cde02d
+      internalID: 2059716040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b4f091119c14f4797c89a7de810e57
+      internalID: 609551104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 231
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d631e2788ca2ca4eba27841f6c5176f
+      internalID: -1927896508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 134
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed8280b1ec0c4f45a5c114e23c7a4ea
+      internalID: -422016582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 220
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf49c34933a2c69498adc280f8fcf8ac
+      internalID: -1419540450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 227
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c77ef3e5d330db4aaefd62cd071adbe
+      internalID: 845797165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 223
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b0affe64ac86342b7ca305a2ed7f2c
+      internalID: -1892789433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 217
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b123c88ded0600349a077305d2324c8d
+      internalID: -774177543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 212
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b87717569a99540966f4b12cc68c1f
+      internalID: -1249149146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 214
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32d4b64521d8354cb16a9b5a1556906
+      internalID: -201435451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 209
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0347874c73bbb64fbbcc033060221e5
+      internalID: 1959532467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 130
+        width: 152
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42644b2f4f112394ea26f9a799ec670a
+      internalID: 865439279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 207
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a996745ed8f915c49b617177df938507
+      internalID: -218511841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 201
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697b66fad37bb1e41a90922aa3fd233b
+      internalID: -1456415724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 199
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcb728dee1f62f4b9774237ecae853f
+      internalID: 822413593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 205
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e154f86651033664bb93b182c4e4cd08
+      internalID: -1492699504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 203
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6a674584e67ef47bb9504763f8a7e3
+      internalID: 2031010907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 207
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c0ee362072a3647bcd76be6e801eb1
+      internalID: 1379167184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 193
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623d96fe84b81da4f913185869e3d94d
+      internalID: 593113387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 197
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa1b354a33dfbd478ce41f7c6f18a4b
+      internalID: 2100237052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 195
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce1c19a729143d4eb7e7d8ce2694619
+      internalID: 803022014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 199
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11cb2da62e5c1a489cebe6975f348e2
+      internalID: 1436371010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 182
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906f8131d5f667e4f836ddd9851850de
+      internalID: -1299396477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 184
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065528a8f42610e4d8ee71d38f1c2ded
+      internalID: -970038034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 188
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615035c8c0826974986f34fa279e61bd
+      internalID: -441455371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 186
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d28510aef55f4647aef9d39dd919209
+      internalID: 1182015776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 183
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d326077bc7fe26f45bce04c08fb375c8
+      internalID: -294157188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 181
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983de14834df2fd46aae65975e8289cd
+      internalID: 532057309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 185
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becf4163ae1bf3d49abac18fdfcd763d
+      internalID: 1937699637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 183
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a32c8ff0127ec4dbcc49750961eaa8
+      internalID: 2134953974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 174
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fcc59dab4640f4499951599b2768c3
+      internalID: -1058382796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 176
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d117d213b03aa344b91cd46787aaaa5b
+      internalID: 1089140325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 160
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d998b6f7aed0041a8be87280a179c3
+      internalID: -1414077299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 157
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2cccf53f936994c9e581d9736cec39
+      internalID: -205652188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 162
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb62299686a345c4499a793387480ba9
+      internalID: -886589877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 167
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c3064d8b5a19246b044b4c9c56aec1
+      internalID: -1309131825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 162
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29f28031d3e6634280f31e4fe85ad13
+      internalID: -387130723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 157
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1688ab8bdb5b904b86e833f30597616
+      internalID: -1164351184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 158
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58265eb5e601d945abfa9a362e083da
+      internalID: 1128062838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef43bc6eff15fc4a9ea9a0243320b7d
+      internalID: 29568389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 157
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c5eddf51eb13c47994fb5201c5a56a
+      internalID: 13741008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 147
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ead7236e436ae40921e6c879a7ad04
+      internalID: 973169931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c901f01eefb5249afb5bd5fd374f5b
+      internalID: -2023031598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 143
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf086c7c7493ae4b8fc582ed7a52cff
+      internalID: 1337137795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 143
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8113e122ef99684a9382b5881cce88e
+      internalID: 699583402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 145
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4400eed5b599d714291561818cab3b3c
+      internalID: -1476198667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5ef710f9f9e774aa36e00d94fe825f
+      internalID: -1845678313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 134
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6abc6089918bd54ea09b916c1bf7043
+      internalID: 859805663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 139
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804c7a7fda08e43408e60f56581aad5b
+      internalID: -322210552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 137
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821ec2e084fdf0b4ca10e85e2699a648
+      internalID: 414769822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aece892007f59664584c557cc0eb183c
+      internalID: -174118993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemyLaser_Die-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 139
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e6baec6a9f6cd468770630c73cfac4
+      internalID: -654497012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EnemyLaser_Die-removebg-preview_22: 84464726
+      EnemyLaser_Die-removebg-preview_24: 2059716040
+      EnemyLaser_Die-removebg-preview_1: 1481779696
+      EnemyLaser_Die-removebg-preview_8: -1121438196
+      EnemyLaser_Die-removebg-preview_17: -2052745166
+      EnemyLaser_Die-removebg-preview_14: 1605801701
+      EnemyLaser_Die-removebg-preview_60: -387130723
+      EnemyLaser_Die-removebg-preview_39: -1492699504
+      EnemyLaser_Die-removebg-preview_40: 2031010907
+      EnemyLaser_Die-removebg-preview_33: -201435451
+      EnemyLaser_Die-removebg-preview_10: -710577510
+      EnemyLaser_Die-removebg-preview_72: -322210552
+      EnemyLaser_Die-removebg-preview_31: -774177543
+      EnemyLaser_Die-removebg-preview_28: -1419540450
+      EnemyLaser_Die-removebg-preview_55: 1089140325
+      EnemyLaser_Die-removebg-preview_54: -1058382796
+      EnemyLaser_Die-removebg-preview_50: -294157188
+      EnemyLaser_Die-removebg-preview_56: -1414077299
+      EnemyLaser_Die-removebg-preview_23: -773412578
+      EnemyLaser_Die-removebg-preview_49: 1182015776
+      EnemyLaser_Die-removebg-preview_16: -1671206959
+      EnemyLaser_Die-removebg-preview_25: 609551104
+      EnemyLaser_Die-removebg-preview_63: 29568389
+      EnemyLaser_Die-removebg-preview_70: -1845678313
+      EnemyLaser_Die-removebg-preview_74: -174118993
+      EnemyLaser_Die-removebg-preview_65: 973169931
+      EnemyLaser_Die-removebg-preview_3: 1794021747
+      EnemyLaser_Die-removebg-preview_12: -567743240
+      EnemyLaser_Die-removebg-preview_37: -1456415724
+      EnemyLaser_Die-removebg-preview_44: 803022014
+      EnemyLaser_Die-removebg-preview_52: 1937699637
+      EnemyLaser_Die-removebg-preview_75: -654497012
+      EnemyLaser_Die-removebg-preview_4: -1814944423
+      EnemyLaser_Die-removebg-preview_9: -2093814897
+      EnemyLaser_Die-removebg-preview_59: -1309131825
+      EnemyLaser_Die-removebg-preview_73: 414769822
+      EnemyLaser_Die-removebg-preview_71: 859805663
+      EnemyLaser_Die-removebg-preview_66: -2023031598
+      EnemyLaser_Die-removebg-preview_53: 2134953974
+      EnemyLaser_Die-removebg-preview_7: 855131556
+      EnemyLaser_Die-removebg-preview_51: 532057309
+      EnemyLaser_Die-removebg-preview_13: -148076975
+      EnemyLaser_Die-removebg-preview_29: 845797165
+      EnemyLaser_Die-removebg-preview_61: -1164351184
+      EnemyLaser_Die-removebg-preview_0: 925814141
+      EnemyLaser_Die-removebg-preview_27: -422016582
+      EnemyLaser_Die-removebg-preview_5: -1267171969
+      EnemyLaser_Die-removebg-preview_42: 593113387
+      EnemyLaser_Die-removebg-preview_11: -1919037747
+      EnemyLaser_Die-removebg-preview_41: 1379167184
+      EnemyLaser_Die-removebg-preview_6: 813090964
+      EnemyLaser_Die-removebg-preview_48: -441455371
+      EnemyLaser_Die-removebg-preview_64: 13741008
+      EnemyLaser_Die-removebg-preview_20: 984910918
+      EnemyLaser_Die-removebg-preview_35: 865439279
+      EnemyLaser_Die-removebg-preview_67: 1337137795
+      EnemyLaser_Die-removebg-preview_46: -1299396477
+      EnemyLaser_Die-removebg-preview_69: -1476198667
+      EnemyLaser_Die-removebg-preview_26: -1927896508
+      EnemyLaser_Die-removebg-preview_43: 2100237052
+      EnemyLaser_Die-removebg-preview_68: 699583402
+      EnemyLaser_Die-removebg-preview_2: 237805623
+      EnemyLaser_Die-removebg-preview_58: -886589877
+      EnemyLaser_Die-removebg-preview_21: 1328195187
+      EnemyLaser_Die-removebg-preview_15: 740145139
+      EnemyLaser_Die-removebg-preview_36: -218511841
+      EnemyLaser_Die-removebg-preview_45: 1436371010
+      EnemyLaser_Die-removebg-preview_47: -970038034
+      EnemyLaser_Die-removebg-preview_30: -1892789433
+      EnemyLaser_Die-removebg-preview_57: -205652188
+      EnemyLaser_Die-removebg-preview_32: -1249149146
+      EnemyLaser_Die-removebg-preview_18: 633043166
+      EnemyLaser_Die-removebg-preview_38: 822413593
+      EnemyLaser_Die-removebg-preview_62: 1128062838
+      EnemyLaser_Die-removebg-preview_19: 2096742732
+      EnemyLaser_Die-removebg-preview_34: 1959532467
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
