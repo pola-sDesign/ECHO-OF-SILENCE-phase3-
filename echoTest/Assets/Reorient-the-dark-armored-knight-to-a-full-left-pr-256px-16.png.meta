@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9af3be8de698f1d4a9c39641ad646d24
+guid: 374b4c4db80545348a97afc3e8688552
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,12 +105,75 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_0
+      name: Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_0
       rect:
         serializedVersion: 2
-        x: 178
-        y: 1662
+        x: 179
+        y: 1661
+        width: 155
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d230b9ae67534345bdd5e3aa56b7c7f
+      internalID: -761828332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_1
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1661
         width: 156
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b65b1b0ce758443bf507084466fcf7
+      internalID: 1970758290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_2
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1661
+        width: 156
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e69b41bc16f09e4383b5c8722a7b8c6
+      internalID: 1066131460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_3
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1661
+        width: 157
         height: 261
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -119,19 +182,103 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe440d1e9c3a74a47b5817f2c629a5da
-      internalID: 2088335421
+      spriteID: cbef9402ea1865345a4558a06a02b694
+      internalID: -541525835
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_1
+      name: Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_4
       rect:
         serializedVersion: 2
-        x: 722
-        y: 1659
-        width: 116
+        x: 178
+        y: 1149
+        width: 156
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ee4016be21c824b9814bede8ba0680
+      internalID: -1531303350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1149
+        width: 159
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab696a944b0b064aa485f4788289ffa
+      internalID: -928148038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_6
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1149
+        width: 164
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601855e709beb4548a04f7b4a20ab801
+      internalID: 1960349244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_7
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1149
+        width: 168
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da254b97b651f334189bbd159bcdda0c
+      internalID: -997267002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_8
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 637
+        width: 171
         height: 252
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -140,20 +287,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1a393a6a5e1eb645b5895d5ab9acebc
-      internalID: 1382874224
+      spriteID: c3e2f4e498af94649b14a9873001b612
+      internalID: -479868261
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_2
+      name: Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_9
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 637
+        width: 168
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af03ed98acb41034ea36a9a12346586e
+      internalID: -242142452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_10
       rect:
         serializedVersion: 2
         x: 1198
-        y: 1665
+        y: 637
+        width: 160
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10a273f8640f5e468cf0d61fd572d7e
+      internalID: 387206074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_11
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 637
         width: 155
-        height: 258
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,209 +350,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d9d2d47f2e66b7468468054455da4c7
-      internalID: -409833230
+      spriteID: 3ecbc5a915df2314c96cd39b5a460293
+      internalID: 409887871
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_3
-      rect:
-        serializedVersion: 2
-        x: 1710
-        y: 1663
-        width: 155
-        height: 254
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7f08ccf57e9d99744abcb8804ce27a50
-      internalID: 1692923580
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_4
-      rect:
-        serializedVersion: 2
-        x: 187
-        y: 1166
-        width: 146
-        height: 243
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c277cf7ce183f141be42248df8c6a94
-      internalID: -1848323500
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_5
-      rect:
-        serializedVersion: 2
-        x: 698
-        y: 1147
-        width: 148
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37e775fde3cb21c409f7ed3b04b2cf5a
-      internalID: -428487871
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_6
-      rect:
-        serializedVersion: 2
-        x: 1237
-        y: 1150
-        width: 113
-        height: 248
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cbec185b56088e449b923e954d003a91
-      internalID: 1145915432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_7
-      rect:
-        serializedVersion: 2
-        x: 1718
-        y: 1151
-        width: 144
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7f53fab0bbc3d3d43b7305301d2bc868
-      internalID: -234621898
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_8
-      rect:
-        serializedVersion: 2
-        x: 174
-        y: 639
-        width: 156
-        height: 255
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d30a37b9ceb6fa54887a80c05767b168
-      internalID: 298326352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_9
-      rect:
-        serializedVersion: 2
-        x: 710
-        y: 646
-        width: 140
-        height: 252
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a97b25c8ea0db2742aca8946ef232b05
-      internalID: -598743832
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_10
-      rect:
-        serializedVersion: 2
-        x: 1206
-        y: 635
-        width: 152
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4de6f1d5fc5e3194ab5891a4bec4c717
-      internalID: -1572412070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_11
-      rect:
-        serializedVersion: 2
-        x: 1742
-        y: 638
-        width: 124
-        height: 249
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e47aebf605856bd41a5bdfe3ff229604
-      internalID: 2052137212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_12
+      name: Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_12
       rect:
         serializedVersion: 2
         x: 179
-        y: 130
-        width: 147
-        height: 256
+        y: 125
+        width: 155
+        height: 261
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,20 +371,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4a2bac82b432fe245b6bcaa12899591f
-      internalID: -554414100
+      spriteID: 82b331f494b0b6f40a3bac0425e9756f
+      internalID: 438016091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_13
+      name: Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_13
       rect:
         serializedVersion: 2
-        x: 686
-        y: 127
-        width: 148
-        height: 256
+        x: 690
+        y: 125
+        width: 156
+        height: 260
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,20 +392,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f198798e878e8a4499010d6b56e46203
-      internalID: -1663012197
+      spriteID: 2bb18e325f30f2c4c952c1048eeff39b
+      internalID: 29328971
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_14
+      name: Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_14
       rect:
         serializedVersion: 2
-        x: 1219
-        y: 133
-        width: 142
-        height: 252
+        x: 1202
+        y: 125
+        width: 156
+        height: 260
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,20 +413,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef240cf13d9150040b8f0f92b3cdc2d9
-      internalID: -1278130122
+      spriteID: 3af4bc34319ad154882734b27ac1b57c
+      internalID: -1071995525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_15
+      name: Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_15
       rect:
         serializedVersion: 2
-        x: 1722
-        y: 142
-        width: 148
-        height: 243
+        x: 1715
+        y: 125
+        width: 155
+        height: 260
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,8 +434,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ccf4c5ebe8d6524b92d10b014707f1a
-      internalID: -1324239703
+      spriteID: 06a8f5215498ed44fad0c4379714fc66
+      internalID: -1590703473
       vertices: []
       indices: 
       edges: []
@@ -451,22 +451,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_0: 2088335421
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_3: 1692923580
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_5: -428487871
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_10: -1572412070
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_11: 2052137212
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_12: -554414100
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_6: 1145915432
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_1: 1382874224
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_8: 298326352
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_9: -598743832
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_15: -1324239703
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_7: -234621898
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_14: -1278130122
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_4: -1848323500
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_2: -409833230
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_13: -1663012197
+      Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_4: -1531303350
+      Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_6: 1960349244
+      Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_2: 1066131460
+      Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_5: -928148038
+      Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_1: 1970758290
+      Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_7: -997267002
+      Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_12: 438016091
+      Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_10: 387206074
+      Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_8: -479868261
+      Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_0: -761828332
+      Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_3: -541525835
+      Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_11: 409887871
+      Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_14: -1071995525
+      Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_15: -1590703473
+      Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_13: 29328971
+      Reorient-the-dark-armored-knight-to-a-full-left-pr-256px-16_9: -242142452
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

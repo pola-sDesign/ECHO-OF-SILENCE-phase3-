@@ -24,34 +24,50 @@ public class IRATest : MonoBehaviour
 
         float distance = Vector2.Distance(transform.position, player.position);
 
-        // Flip direction
+        // Flip to face player
         sr.flipX = (player.position.x < transform.position.x);
 
+        // ============================================
+        // 1) If she is on cooldown → STAY STILL unless 
+        //    the player MOVES AWAY past stopDistance
+        // ============================================
         if (!canAttack)
         {
-            anim.SetFloat("Speed", 0f);
+            if (distance > stopDistance)
+            {
+                anim.SetFloat("Speed", 1f);
+                MoveTowardsPlayer();
+            }
+            else
+            {
+                anim.SetFloat("Speed", 0f); // STOP beside player
+            }
             return;
         }
 
-        // Move until close
+        // ============================================
+        // 2) If she can attack
+        // ============================================
         if (distance > stopDistance)
         {
             anim.SetFloat("Speed", 1f);
-            transform.position = Vector2.MoveTowards(
-                transform.position,
-                new Vector3(player.position.x, transform.position.y, 0),
-                speed * Time.deltaTime
-            );
+            MoveTowardsPlayer();
         }
         else
         {
-            // Stop walking
             anim.SetFloat("Speed", 0f);
-
-            // Attack immediately
             canAttack = false;
             anim.SetTrigger("Attack");
         }
+    }
+
+    void MoveTowardsPlayer()
+    {
+        transform.position = Vector2.MoveTowards(
+            transform.position,
+            new Vector3(player.position.x, transform.position.y, 0),
+            speed * Time.deltaTime
+        );
     }
 
     public void EnableAttackAfterDelay(float delay)
@@ -62,6 +78,6 @@ public class IRATest : MonoBehaviour
     IEnumerator AttackDelayCoroutine(float d)
     {
         yield return new WaitForSeconds(d);
-        canAttack = true;  // ready for new attack
+        canAttack = true;
     }
 }

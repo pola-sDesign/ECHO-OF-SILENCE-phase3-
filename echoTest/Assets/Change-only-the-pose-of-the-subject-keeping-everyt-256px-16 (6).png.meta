@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2ac8210a8c838314685d9322a7803660
+guid: a49af2dc6fc664d44b380249404fb131
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,13 +105,34 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_0
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_0
       rect:
         serializedVersion: 2
-        x: 178
+        x: 147
+        y: 1661
+        width: 218
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad199aeb62c978841a51ae6b7d797116
+      internalID: -816986602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_1
+      rect:
+        serializedVersion: 2
+        x: 663
         y: 1662
-        width: 156
-        height: 261
+        width: 215
+        height: 260
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,20 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb370088a6d7bca4da658b5df4751e1c
-      internalID: -354543161
+      spriteID: 786b437b0f9c16645bc30687b50b4dc6
+      internalID: 1933651337
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_1
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_2
       rect:
         serializedVersion: 2
-        x: 722
-        y: 1659
-        width: 116
-        height: 252
+        x: 1214
+        y: 1662
+        width: 176
+        height: 279
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,20 +161,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80b9e0fd08b061d4e85b4cda22b98bd6
-      internalID: -496423508
+      spriteID: 5ad16d6ee0c234d4384098d3777f8c4a
+      internalID: -1446753065
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_3
       rect:
         serializedVersion: 2
-        x: 1198
-        y: 1665
-        width: 155
-        height: 258
+        x: 1731
+        y: 1662
+        width: 172
+        height: 279
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,103 +182,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18da591d749612742a849837a98a4ef0
-      internalID: 1780860538
+      spriteID: ea1db7b9351374042878ccb511aa1c2e
+      internalID: 1413151350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_3
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_4
       rect:
         serializedVersion: 2
-        x: 1710
-        y: 1663
-        width: 155
-        height: 254
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed0d092cad605a245be4c5825855ad63
-      internalID: 506980992
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_4
-      rect:
-        serializedVersion: 2
-        x: 187
-        y: 1166
-        width: 146
-        height: 243
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 57f8201a36ca32e4ab507ef8bc77be24
-      internalID: -256247333
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_5
-      rect:
-        serializedVersion: 2
-        x: 698
-        y: 1147
-        width: 148
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0fb45f9f77225764da0d93a37e6b0312
-      internalID: -699326503
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_6
-      rect:
-        serializedVersion: 2
-        x: 1237
+        x: 214
         y: 1150
-        width: 113
-        height: 248
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 24de93ddd66b87b44aa0d5080b5695be
-      internalID: -1861884141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_7
-      rect:
-        serializedVersion: 2
-        x: 1718
-        y: 1151
-        width: 144
+        width: 151
         height: 259
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -266,20 +203,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a442af49df923d4d9312de212de60e4
-      internalID: 1460288644
+      spriteID: 837622004a83ac649bd02ae3001c3361
+      internalID: -1608502543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_8
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_5
       rect:
         serializedVersion: 2
-        x: 174
-        y: 639
-        width: 156
-        height: 255
+        x: 727
+        y: 1150
+        width: 150
+        height: 247
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,20 +224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3bc49409a8daa842bc40ea72ceb7556
-      internalID: 1307677374
+      spriteID: edcbd82ab094aa940ad8b5f63b39193f
+      internalID: -889900282
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_9
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_6
       rect:
         serializedVersion: 2
-        x: 710
-        y: 646
-        width: 140
-        height: 252
+        x: 1239
+        y: 1150
+        width: 150
+        height: 239
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,20 +245,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bbc6df2dc5b508944b87cd065bcc5ba5
-      internalID: 161460450
+      spriteID: e25b7996bcbbab248a68af08ea5df8ae
+      internalID: 1335174579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_10
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_7
       rect:
         serializedVersion: 2
-        x: 1206
-        y: 635
+        x: 1751
+        y: 1150
         width: 152
-        height: 259
+        height: 239
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,20 +266,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6007684ca98199a47a47e2d341ba07be
-      internalID: -14021229
+      spriteID: e817b272220b5394e844992409d816ac
+      internalID: 168430482
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_11
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_8
       rect:
         serializedVersion: 2
-        x: 1742
+        x: 215
         y: 638
-        width: 124
-        height: 249
+        width: 152
+        height: 236
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -350,20 +287,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27f62ec20c0be3d4ea1429c58c176304
-      internalID: -66920716
+      spriteID: d77e169382fd9a541b1a3e19a280c00e
+      internalID: 220398518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_12
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_9
       rect:
         serializedVersion: 2
-        x: 179
-        y: 130
-        width: 147
-        height: 256
+        x: 727
+        y: 638
+        width: 150
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,40 +308,61 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57183a65a0a8a1842af2cf83a9da3a7e
-      internalID: 401198179
+      spriteID: 71027653e9afd77478496923035e1118
+      internalID: -1544584178
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_13
-      rect:
-        serializedVersion: 2
-        x: 686
-        y: 127
-        width: 148
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9211e093c75d41549aff0e96efc3349b
-      internalID: 1797705522
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_14
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_10
       rect:
         serializedVersion: 2
         x: 1219
-        y: 133
-        width: 142
+        y: 638
+        width: 170
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f898ade606c59d940bf5e399639628f8
+      internalID: 117975229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_11
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 638
+        width: 182
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b7c47618598b648bb6969009eaca09
+      internalID: 1396599324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 126
+        width: 217
         height: 252
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -413,20 +371,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56ecc685fc46b2f4cae2c82ada2d78b9
-      internalID: -1780353697
+      spriteID: d50a6fe8af56dd742a6c1652b590360a
+      internalID: -1097064486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_15
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_13
       rect:
         serializedVersion: 2
-        x: 1722
-        y: 142
-        width: 148
-        height: 243
+        x: 659
+        y: 126
+        width: 215
+        height: 251
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,8 +392,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 925db94ee19be854bafbf4bf6ca91025
-      internalID: 78312466
+      spriteID: ce9b8cb36a0fa4f4bb6324de5d401aa7
+      internalID: 113578560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_14
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 126
+        width: 215
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57daa1b52a750b642adba5aaf28d69e8
+      internalID: -2014442434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_15
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 126
+        width: 215
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ba169c3a1203a4b819c331b8b11585
+      internalID: -91770559
       vertices: []
       indices: 
       edges: []
@@ -451,22 +451,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_12: 401198179
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_4: -256247333
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_13: 1797705522
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_1: -496423508
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_5: -699326503
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_10: -14021229
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_9: 161460450
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_2: 1780860538
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_14: -1780353697
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_8: 1307677374
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_15: 78312466
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_7: 1460288644
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_3: 506980992
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_0: -354543161
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_6: -1861884141
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16_11: -66920716
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_0: -816986602
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_15: -91770559
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_1: 1933651337
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_13: 113578560
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_2: -1446753065
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_8: 220398518
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_7: 168430482
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_5: -889900282
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_14: -2014442434
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_9: -1544584178
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_6: 1335174579
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_10: 117975229
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_11: 1396599324
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_4: -1608502543
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_3: 1413151350
+      Change-only-the-pose-of-the-subject-keeping-everyt-256px-16 (6)_12: -1097064486
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

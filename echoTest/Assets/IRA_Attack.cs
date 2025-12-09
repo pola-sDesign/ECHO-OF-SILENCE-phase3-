@@ -46,8 +46,8 @@ public class IRA_Attack : MonoBehaviour
 
         laser.enabled = false;
 
-        // EXACTLY 2 seconds until next attack
-        FindObjectOfType<IRATest>().EnableAttackAfterDelay(2f);
+        // Cooldown AFTER laser ends = 1 second
+        FindObjectOfType<IRATest>().EnableAttackAfterDelay(1f);
     }
 
     private void OnTriggerStay2D(Collider2D other)

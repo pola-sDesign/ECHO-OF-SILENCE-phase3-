@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9af3be8de698f1d4a9c39641ad646d24
+guid: 264cfa2fe28b86b4b9faf177198a8ae2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,138 +105,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_0
+      name: Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_0
       rect:
         serializedVersion: 2
-        x: 178
+        x: 146
         y: 1662
-        width: 156
-        height: 261
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fe440d1e9c3a74a47b5817f2c629a5da
-      internalID: 2088335421
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_1
-      rect:
-        serializedVersion: 2
-        x: 722
-        y: 1659
-        width: 116
-        height: 252
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1a393a6a5e1eb645b5895d5ab9acebc
-      internalID: 1382874224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_2
-      rect:
-        serializedVersion: 2
-        x: 1198
-        y: 1665
-        width: 155
-        height: 258
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d9d2d47f2e66b7468468054455da4c7
-      internalID: -409833230
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_3
-      rect:
-        serializedVersion: 2
-        x: 1710
-        y: 1663
-        width: 155
-        height: 254
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7f08ccf57e9d99744abcb8804ce27a50
-      internalID: 1692923580
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_4
-      rect:
-        serializedVersion: 2
-        x: 187
-        y: 1166
-        width: 146
-        height: 243
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c277cf7ce183f141be42248df8c6a94
-      internalID: -1848323500
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_5
-      rect:
-        serializedVersion: 2
-        x: 698
-        y: 1147
-        width: 148
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37e775fde3cb21c409f7ed3b04b2cf5a
-      internalID: -428487871
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_6
-      rect:
-        serializedVersion: 2
-        x: 1237
-        y: 1150
-        width: 113
+        width: 220
         height: 248
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -245,20 +119,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbec185b56088e449b923e954d003a91
-      internalID: 1145915432
+      spriteID: 7beecc1cf5fa55d409d4746da9fd5a6b
+      internalID: 115167902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_7
+      name: Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_1
       rect:
         serializedVersion: 2
-        x: 1718
-        y: 1151
-        width: 144
-        height: 259
+        x: 658
+        y: 1661
+        width: 220
+        height: 265
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,20 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f53fab0bbc3d3d43b7305301d2bc868
-      internalID: -234621898
+      spriteID: 75f5dda128c1f274199eab6af10895e9
+      internalID: -1111938197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_8
+      name: Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_2
       rect:
         serializedVersion: 2
-        x: 174
-        y: 639
-        width: 156
-        height: 255
+        x: 1189
+        y: 1661
+        width: 201
+        height: 273
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,20 +161,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d30a37b9ceb6fa54887a80c05767b168
-      internalID: 298326352
+      spriteID: 2024a8e81f2de194f98e0f7e6da98aa9
+      internalID: 56071654
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_9
+      name: Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_3
       rect:
         serializedVersion: 2
-        x: 710
-        y: 646
-        width: 140
-        height: 252
+        x: 1702
+        y: 1661
+        width: 200
+        height: 269
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,20 +182,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a97b25c8ea0db2742aca8946ef232b05
-      internalID: -598743832
+      spriteID: a8ac09aef9109c94983b2a9820359b8a
+      internalID: -663236558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_10
+      name: Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_4
       rect:
         serializedVersion: 2
-        x: 1206
-        y: 635
-        width: 152
-        height: 259
+        x: 166
+        y: 1150
+        width: 200
+        height: 272
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,103 +203,82 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4de6f1d5fc5e3194ab5891a4bec4c717
-      internalID: -1572412070
+      spriteID: 88bf903d9e8780148ae7657a6b377422
+      internalID: 270578391
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_11
+      name: Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_5
       rect:
         serializedVersion: 2
-        x: 1742
+        x: 674
+        y: 1150
+        width: 204
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779e4c6c7960cae42a9d7d348af93bf7
+      internalID: -1697719842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_6
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1150
+        width: 211
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98000be030f1dd043a415c807feeb105
+      internalID: 1966441422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_7
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1150
+        width: 212
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1117c6c45440db546ac10f4f43a9e3b4
+      internalID: 125710130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_8
+      rect:
+        serializedVersion: 2
+        x: 146
         y: 638
-        width: 124
-        height: 249
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e47aebf605856bd41a5bdfe3ff229604
-      internalID: 2052137212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_12
-      rect:
-        serializedVersion: 2
-        x: 179
-        y: 130
-        width: 147
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a2bac82b432fe245b6bcaa12899591f
-      internalID: -554414100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_13
-      rect:
-        serializedVersion: 2
-        x: 686
-        y: 127
-        width: 148
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f198798e878e8a4499010d6b56e46203
-      internalID: -1663012197
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_14
-      rect:
-        serializedVersion: 2
-        x: 1219
-        y: 133
-        width: 142
-        height: 252
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ef240cf13d9150040b8f0f92b3cdc2d9
-      internalID: -1278130122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_15
-      rect:
-        serializedVersion: 2
-        x: 1722
-        y: 142
-        width: 148
+        width: 215
         height: 243
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -434,8 +287,155 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ccf4c5ebe8d6524b92d10b014707f1a
-      internalID: -1324239703
+      spriteID: c146e2a2a7ac5bb48b8a5683b2ab492b
+      internalID: -425674171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_9
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 637
+        width: 208
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e293535c9376e95419053407d8df95ca
+      internalID: -1501741433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_10
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 637
+        width: 200
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c510659897bec4b95b508967df41be
+      internalID: -882117072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_11
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 637
+        width: 200
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1c6ec8cd27fc041823c794adb55781
+      internalID: 1391514648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 126
+        width: 203
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305f4329a9cddcf419311936697a0aad
+      internalID: 1960037374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_13
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 126
+        width: 208
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc3b8fc0aedd484aa741bba2ccde6d2
+      internalID: 2139648682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_14
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 126
+        width: 212
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd324bee873701d46af64bd552bf70b2
+      internalID: 880139103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_15
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 126
+        width: 215
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4911c7aa99815984bac80540da2e2e18
+      internalID: -965874809
       vertices: []
       indices: 
       edges: []
@@ -451,22 +451,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_0: 2088335421
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_3: 1692923580
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_5: -428487871
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_10: -1572412070
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_11: 2052137212
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_12: -554414100
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_6: 1145915432
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_1: 1382874224
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_8: 298326352
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_9: -598743832
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_15: -1324239703
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_7: -234621898
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_14: -1278130122
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_4: -1848323500
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_2: -409833230
-      Change-the-robot-to-a-dynamic-running-pose-facing--256px-16 (1)_13: -1663012197
+      Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_7: 125710130
+      Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_0: 115167902
+      Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_6: 1966441422
+      Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_13: 2139648682
+      Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_11: 1391514648
+      Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_2: 56071654
+      Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_8: -425674171
+      Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_15: -965874809
+      Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_12: 1960037374
+      Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_5: -1697719842
+      Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_9: -1501741433
+      Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_4: 270578391
+      Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_10: -882117072
+      Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_14: 880139103
+      Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_3: -663236558
+      Pose-the-dark-knight-mid-stride-facing-left-Extend-256px-16_1: -1111938197
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
